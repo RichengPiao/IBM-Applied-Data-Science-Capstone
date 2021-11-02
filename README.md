@@ -1,2 +1,2 @@
 # IBM - Applied Data Science Capstone
-This is a IBM applied data science capstone project repository
+This is an applied data science capstone project repository for IBM data science specialization certification.
