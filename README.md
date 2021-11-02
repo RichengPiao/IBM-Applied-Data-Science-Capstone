@@ -6,3 +6,4 @@ In this capstone, I will predict if the Falcon 9 first stage will land successfu
 Collect data and make sure the data is in the correct format from an API. 
 ## Step 1-2:
 Web scraping is performed to collect Falcon 9 historical launch records from a Wikipedia page.
+link: https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
