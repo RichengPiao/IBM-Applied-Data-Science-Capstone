@@ -7,3 +7,5 @@ Collect data and make sure the data is in the correct format from an API.
 ## Step 1-2:
 Web scraping is performed to collect Falcon 9 historical launch records from a Wikipedia page.
 link: https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
+## Step 1-3:
+Perform some Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
