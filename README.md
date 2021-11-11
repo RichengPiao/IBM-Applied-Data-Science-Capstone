@@ -9,3 +9,13 @@ Web scraping is performed to collect Falcon 9 historical launch records from a W
 link: https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_Heavy_launches
 ## Step 2-1:
 Perform basic Exploratory Data Analysis (EDA) to find some patterns in the data and determine what would be the label for training supervised models.
+## Step 2-2:
+Understand the Spacex DataSet USING SQL
+## Step 2-3:
+Exploratory Data Analysis and Feature Engineering
+## Step 2-4:
+Performing more interactive visual analytics using Folium.
+## Step 2-5:
+
+## Step 3-1:
+Find best Hyperparameter for SVM, Classification Trees and Logistic Regression
