@@ -16,6 +16,6 @@ Exploratory Data Analysis and Feature Engineering
 ## Step 2-4:
 Performing more interactive visual analytics using Folium.
 ## Step 2-5:
-
+Build an Interactive Dashboard with Ploty Dash.
 ## Step 3-1:
 Find best Hyperparameter for SVM, Classification Trees and Logistic Regression
